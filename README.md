@@ -5,7 +5,7 @@
 - ⚡ **Projects & Experience**:  
   - **Research Assistant at Stern**: Developed a web scraping pipeline, a LinkedIn sentiment analysis tool, and an image analytics solution  
   - **Quant Intern at Tenbagger Capital**: Built a **Barra-based risk attribution model** to assess AI-focused stock portfolios and enhance risk management strategies  
-  - **Rockstar Datathon**: Designed a **player retention prediction model** for GTA Online, leveraging synthetic data to analyze engagement patterns  
+  - **Rockstar Datathon**: Built a **player retention prediction model** for GTA Online, leveraging synthetic data to analyze engagement patterns  
 
 - 🌐 **Languages & Tools**:  
   - Python (Pandas, NumPy, scikit-learn, TensorFlow) 🐍  
