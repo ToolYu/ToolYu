@@ -1,13 +1,8 @@
-## Hi, I'm Qianyu! 👋
+## Hi, I'm Qianyu! 😊
 
-- 🎓 **Master's student in Data Science at NYU**  
-  Combine my background in Mathematics & Physics with cutting-edge machine learning to drive data-driven insights.
-
-- 🕵️ **Currently exploring**:  
-  - Web Scraping pipleline(Selenium based)
-  - Quantitative research models (Barra model, risk analysis)  
-  - Computer Vision
-
+- 🎓 **Master’s student in Data Science at NYU**  
+  Previously earned a BSc (Hons) in Mathematics & Physics at the University of St Andrews
+  
 - ⚡ **Projects & Experience**:  
   - Built a LinkedIn sentiment analysis tool (TextBlob + GPT)   
   - Developed a Barra-based risk attribution model for AI-focused stock portfolios  
