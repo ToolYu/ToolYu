@@ -6,7 +6,7 @@
 - ⚡ **Projects & Experience**:  
   - Built a LinkedIn sentiment analysis tool (TextBlob + GPT)   
   - Developed a Barra-based risk attribution model for AI-focused stock portfolios  
-  - Created a player retention prediction model (AUC = 0.82) for a GTA online (based on synthetic data from Rockstar Datathon)
+  - Created a player retention prediction model for a GTA online (based on data from Rockstar Datathon)
 
 - 🌐 **Languages & Tools**:  
   - Python (Pandas, NumPy, scikit-learn, TensorFlow) 🐍  
