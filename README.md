@@ -1,7 +1,6 @@
 ## Hi, I'm Qianyu! 😊
 
 - 🎓 **Master’s student in Data Science at NYU**  
-  Previously earned a BSc (Hons) in Mathematics & Physics at the University of St Andrews
   
 - ⚡ **Projects & Experience**:  
   - **Research Assistant at Stern**: Developed a web scraping pipeline, a LinkedIn sentiment analysis tool, and an image analytics solution  
