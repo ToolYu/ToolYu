@@ -4,9 +4,9 @@
   Previously earned a BSc (Hons) in Mathematics & Physics at the University of St Andrews
   
 - ⚡ **Projects & Experience**:  
-  - Built a LinkedIn sentiment analysis tool (TextBlob + GPT)   
-  - Developed a Barra-based risk attribution model for AI-focused stock portfolios  
-  - Created a player retention prediction model for a GTA online (based on data from Rockstar Datathon)
+  - **Research Assistant at Stern**: Developed a web scraping pipeline, a LinkedIn sentiment analysis tool, and an image analytics solution  
+  - **Quant Intern at Tenbagger Capital**: Built a **Barra-based risk attribution model** to assess AI-focused stock portfolios and enhance risk management strategies  
+  - **Rockstar Datathon**: Designed a **player retention prediction model** for GTA Online, leveraging synthetic data to analyze engagement patterns  
 
 - 🌐 **Languages & Tools**:  
   - Python (Pandas, NumPy, scikit-learn, TensorFlow) 🐍  
