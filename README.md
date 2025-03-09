@@ -14,7 +14,7 @@
   - Git & GitHub (Version control & collaboration)
 
 - 🏆 **Fun Facts**:  
-  📸 Licensed Photographer  🥋 Kung Fu Enthusiast
+  📸 Licensed Photographer  🥋 Previous Kung Fu Player
   🌶️ A Guizhou Native Who Surprisingly Doesn’t Eat Spicy Food
 
 <!--
