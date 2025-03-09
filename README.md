@@ -15,9 +15,8 @@
   - Git & GitHub (Version control & collaboration)
 
 - 🏆 **Fun Facts**:  
-  - 📸 Licensed Photographer  
-  - 🥋 Kung Fu Enthusiast  
-  - 🌶️ A Guizhou Native Who Surprisingly Doesn’t Eat Spicy Food
+  📸 Licensed Photographer  🥋 Kung Fu Enthusiast
+  🌶️ A Guizhou Native Who Surprisingly Doesn’t Eat Spicy Food
 
 <!--
 **ToolYu/ToolYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
